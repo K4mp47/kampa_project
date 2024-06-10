@@ -1,0 +1,25 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'Mister';
+  src: url('/mister-firley.regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Golden';
+  src: url('/golden-girdle.regular.otf') format('opentype');
+}
+
+/* change id root */
+body {
+  font-family: 'Golden', sans-serif;
+  background-color: #17171A;
+}
+
+html {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
