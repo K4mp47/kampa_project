@@ -16,11 +16,11 @@ function App() {
         <ThreeComponent />
       </div>
       <a href="https://github.com/K4mp47">
-        <div className='font-mono absolute m-4 md:m-10 md:mb-[8rem] mb-[4.6rem] z-1 text-[0.6rem] md:text-[1rem] text-gray-400 left-0 bottom-0'>
+        <div className='font-mono absolute m-4 md:m-10 md:mb-[8.4rem] mb-[4.6rem] z-1 text-[0.6rem] md:text-[1rem] text-gray-400 left-0 bottom-0'>
         Hi, I'm a
         </div>
       </a>
-      <div className='absolute m-4 md:m-10 md:mb-28 mb-14 z-1 text-md lg:text-2xl left-0 bottom-0'>
+      <div className='absolute m-4 md:m-10 md:mb-28 mb-14 z-1 text-md md:text-2xl left-0 bottom-0'>
         Web Developer 
       </div>
       <div className='font-mono absolute m-4 md:m-10 md:mb-20 mb-10 z-1 text-[0.5rem] md:text-[1rem] text-gray-400 left-0 bottom-0'>
