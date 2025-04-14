@@ -19,7 +19,7 @@ function App() {
         Hi, I'm a
       </div>
       <div className='absolute m-4 md:m-10 md:mb-28 mb-[5rem] z-1 text-xl md:text-2xl left-0 bottom-0'>
-        Web Developer 
+        Web Developer
       </div>
       <div className='font-mono absolute m-4 md:m-10 md:mb-20 mb-[3.3rem] z-1 text-[1rem] md:text-[1rem] text-gray-400 left-0 bottom-0'>
         Local Time (UTC+1)
@@ -27,7 +27,7 @@ function App() {
       <div className='absolute m-4 md:m-10 md:mb-14 mb-[2rem] z-1 text-xl md:text-2xl left-0 bottom-0'>
         <Clock />
       </div>
-      <div className='absolute m-4 md:m-10 md:mb-14 mb-[2rem] z-1 ml-40 md:ml-56 font-mono text-[1rem] p-[0.09rem] md:p-[0.16rem] md:text-[1rem] text-gray-400 left-0 bottom-0'>
+      <div className='absolute m-4 md:m-10 md:mb-14 mb-[2rem] z-1 ml-[12rem] md:ml-56 font-mono text-[1rem] p-[0.09rem] md:p-[0.16rem] md:text-[1rem] text-gray-400 left-0 bottom-0'>
         <FPS />
       </div>
       <div className='font-mono absolute m-4 md:m-10 z-1 text-[1rem] md:text-[1rem] text-gray-400 left-0 bottom-0'>
